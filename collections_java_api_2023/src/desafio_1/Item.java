@@ -1,4 +1,4 @@
-package pesquisa;
+package desafio_1;
 
 public class Item {
 
