@@ -32,3 +32,7 @@ README.md
 
 # Eclipse metadata
 /.metadata/
+
+# Collections Java API
+collections_java_api_2023/.gitignore
+collections_java_api_2023/src/module-info.java
