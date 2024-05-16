@@ -1,4 +1,4 @@
-package desafio_1;
+package list.desafio_1;
 
 public class Mercado {
 
