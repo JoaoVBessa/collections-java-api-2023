@@ -19,6 +19,7 @@ public class Teste {
 		
 		// Obtendo Descrição
 		listaTarefa.obterDescricoesTarefas();
+		
 	}
 	
 }
